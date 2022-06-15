@@ -1,4 +1,4 @@
-# 2020-AGU
-An Evaluation Study of the International Space Station Lightning Imaging Sensor
+# An Evaluation Study of the International Space Station Lightning Imaging Sensor
+2020 AGU
 
 As a satellite-based optical lightning instrument with overlapping observations with the GOES Geostationary Lightning Mappers (GLMs), the Lightning Imaging Sensor (LIS) on the International Space Station (ISS) can provide a new and important insight to help us better understand GLM. Designed as a spare prototype of the LIS on the historical satellite -- Tropical Rainfall Measuring Mission (TRMM), ISS-LIS uses the same specifications and flash grouping algorithms as TRMM-LIS. The ISS-LIS showed a similar overall optical pattern in the pixel array, but less sensitivity and noisier behaviors. ISS-LIS groups are about 15% smaller and weaker than that of TRMM LIS across the pixel array. Other than the sensitivity difference, some of the problematic pixels might have an impact on the group-level parameters, and possibly, flash-level parameters. In addition, the GLD360 data will be used to calculate the detection efficiencies of ISS-LIS. This study will provide a full evaluation of the ISS-LIS instrument, which can assist further studies including inter-comparing GLM and LIS, as well as simulating and downscaling GLM products with the help of the ISS-LIS.
